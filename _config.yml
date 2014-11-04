@@ -3,8 +3,8 @@ title: Klika-tech blog
 email: your-email@klika-tech.com
 description: > # this means to ignore newlines until "baseurl:"
   Decriptiong of our blog.
-baseurl: "/blog" # the subpath of your site, e.g. /blog/
-url: "http://klika-tech.com" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://asuhenko.github.io/jekyll-test-site" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
 
